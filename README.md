@@ -1,2 +1,2 @@
 # Fibonacci
-Displays the first 15 Fibonacci numbers
+_Displays the first 15 Fibonacci numbers_
